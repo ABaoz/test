@@ -1,3 +1,2 @@
 # test
-This is a repository for ABaoz's video.
-wawawa
+This is a repository for ABaoz's test.
